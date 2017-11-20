@@ -16,3 +16,8 @@ chmod u+x decode.sh
 ```
 git clean -d -f -f
 ```
+
+## Reference
+
+[dex2jar](https://github.com/pxb1988/dex2jar)
+[jd-gui](http://jd.benow.ca/)
